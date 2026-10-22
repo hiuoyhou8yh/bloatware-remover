@@ -1,0 +1,2 @@
+# bloatware-remover
+removes bloatware
